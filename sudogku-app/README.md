@@ -1,57 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) app: a tracker for a World Cup 2026 quiniela (prediction pool). It shows the leaderboard, every match, and every participant's predictions, scored automatically.
 
-## Getting Started
-
-First, run the development server:
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How it works
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `src/data/quiniela.json` is the seed data: the 72 group-stage matches and all participants' predictions, imported from the original quiniela spreadsheet. Actual results already known at import time are filled in; the rest are `null` (pending).
+- `src/lib/scoring.ts` implements the point system:
+  - **5 pts** — exact score
+  - **4 pts** — correct winner/draw + one team's goal count right
+  - **3 pts** — correct winner/draw, no goal counts right
+  - **1 pt** — wrong winner/draw, but one team's goal count right
+  - **0 pts** — wrong winner/draw, no goal counts right
+- `src/lib/data.ts` merges the seed results with live results (see below) and exposes them to the pages.
+- Pages (`/`, `/partidos`, `/usuarios`) revalidate every 10 minutes, so results refresh automatically without a redeploy.
 
-## Learn More
+## Updating results
 
-To learn more about Next.js, take a look at the following resources:
+You have two ways to keep match results current:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Automatic (recommended):** sign up for a free API key at [football-data.org](https://www.football-data.org/client/register), then set it as the `FOOTBALL_DATA_API_KEY` environment variable (locally in `.env.local`, or in your Vercel project settings). The site will pull finished World Cup results from that API every 10 minutes and override the seed data automatically. If the key isn't set, or the API call fails for any reason, the site silently falls back to whatever is in `src/data/quiniela.json` — nothing breaks.
+2. **Manual fallback:** edit `actualHome`/`actualAway` for the relevant match in `src/data/quiniela.json` and push — Vercel will redeploy with the new result.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Team names are matched between the API and the seed data via `src/lib/teamNames.ts`. If a team's result isn't picking up, check that its alias list there matches the name the API returns.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-## Deployment
-
-This app is ready to deploy on Vercel. Follow these steps:
-
-1. Push your code to a GitHub repository
-2. Go to [Vercel](https://vercel.com) and sign in with your GitHub account
-3. Click "New Project" and select your repository
-4. Vercel will automatically detect that this is a Next.js project
-5. Click "Deploy" and Vercel will build and deploy your app
-
-### Environment Variables
-
-No environment variables are required for this project.
+1. Push this repo to GitHub.
+2. Go to [Vercel](https://vercel.com), import the repository.
+3. (Optional) Add the `FOOTBALL_DATA_API_KEY` environment variable for automatic live results.
+4. Deploy.
 
 ### Build Settings
-
-The default build settings should work fine, but if you need to customize them:
 
 - Build Command: `npm run build`
 - Output Directory: `.next`
