@@ -1,0 +1,11125 @@
+{
+  "users": [
+    "PAUL",
+    "CARLOS SANCHEZ",
+    "Yoshan jardine",
+    "LEANDRO ANGARITA",
+    "Andres Griborio",
+    "Meiling Chu",
+    "Juan Carlos Griborio",
+    "ALEJANDRO MANTILLA",
+    "JAVI FERRER",
+    "TELE",
+    "Ernesto F",
+    "CARLOS RUSA",
+    "Alejandro M (Vaderick)",
+    "KELVIN",
+    "Ricardo Montesinos",
+    "JONAH",
+    "Ricardo Diaz",
+    "HERMANO RUBIANO",
+    "JOSE MENDEZ",
+    "HERNANDO SR",
+    "juan rubiano",
+    "Saul negretti",
+    "PLAY",
+    "Luis Rubiano",
+    "NELSON SANCHEZ",
+    "JESUS MORAN",
+    "GUILLE",
+    "CARLOS ROMERO",
+    "JUAN MUNOS",
+    "Javier Silva",
+    "JORGE SILVA",
+    "Javielito",
+    "PAPA DE TODOS",
+    "ANGEL GOMEZ",
+    "DARIO"
+  ],
+  "matches": [
+    {
+      "group": "Grupo A",
+      "home": "México",
+      "away": "Sudáfrica",
+      "homeId": 15,
+      "awayId": 60,
+      "actualHome": 2,
+      "actualAway": 0,
+      "matchNo": 1,
+      "date": "2026-06-11 21:00:00",
+      "venue": "Mexico City",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          1
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          1,
+          0
+        ],
+        "Ricardo Diaz": [
+          1,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          1,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          2
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo A",
+      "home": "Rep. de Corea",
+      "away": "Checa",
+      "homeId": 25,
+      "awayId": 41,
+      "actualHome": 2,
+      "actualAway": 1,
+      "matchNo": 2,
+      "date": "2026-06-12 04:00:00.288000",
+      "venue": "Guadalajara",
+      "predictions": {
+        "PAUL": [
+          1,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          0
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          3,
+          1
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          2
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo A",
+      "home": "Checa",
+      "away": "Sudáfrica",
+      "homeId": 41,
+      "awayId": 60,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 25,
+      "date": "2026-06-18 18:00:00",
+      "venue": "Atlanta",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          0
+        ],
+        "Yoshan jardine": [
+          1,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          1,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          2,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo A",
+      "home": "México",
+      "away": "Rep. de Corea",
+      "homeId": 15,
+      "awayId": 25,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 28,
+      "date": "2026-06-19 03:00:00",
+      "venue": "Guadalajara",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          3,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          0
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          1,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          0
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          1
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo A",
+      "home": "Checa",
+      "away": "México",
+      "homeId": 41,
+      "awayId": 15,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 53,
+      "date": "2026-06-25 03:00:00",
+      "venue": "Mexico City",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          0,
+          0
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          1
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          3
+        ],
+        "JONAH": [
+          0,
+          3
+        ],
+        "Ricardo Diaz": [
+          0,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          2
+        ],
+        "JOSE MENDEZ": [
+          1,
+          3
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          1,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          2
+        ],
+        "DARIO": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo A",
+      "home": "Sudáfrica",
+      "away": "Rep. de Corea",
+      "homeId": 60,
+      "awayId": 25,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 54,
+      "date": "2026-06-25 03:00:00",
+      "venue": "Monterrey",
+      "predictions": {
+        "PAUL": [
+          0,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          3
+        ],
+        "Yoshan jardine": [
+          0,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          3
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          3
+        ],
+        "TELE": [
+          0,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          2
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          2
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          1
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          1
+        ],
+        "PLAY": [
+          0,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          3
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Canadá",
+      "away": "Bosnia/Herzeg.",
+      "homeId": 30,
+      "awayId": 65,
+      "actualHome": 1,
+      "actualAway": 1,
+      "matchNo": 3,
+      "date": "2026-06-12 21:00:00",
+      "venue": "Toronto",
+      "predictions": {
+        "PAUL": [
+          1,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          2,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          1,
+          3
+        ],
+        "Ricardo Diaz": [
+          0,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          1,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          1
+        ],
+        "Javielito": [
+          0,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Qatar",
+      "away": "Suiza",
+      "homeId": 55,
+      "awayId": 19,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 8,
+      "date": "2026-06-13 21:00:00",
+      "venue": "San Francisco Bay Area",
+      "predictions": {
+        "PAUL": [
+          0,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          3
+        ],
+        "Yoshan jardine": [
+          0,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          3
+        ],
+        "Andres Griborio": [
+          0,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          1
+        ],
+        "KELVIN": [
+          0,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          3
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          0,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          3
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          2
+        ],
+        "JORGE SILVA": [
+          0,
+          4
+        ],
+        "Javielito": [
+          0,
+          3
+        ],
+        "PAPA DE TODOS": [
+          0,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          3
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Suiza",
+      "away": "Bosnia/Herzeg.",
+      "homeId": 19,
+      "awayId": 65,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 26,
+      "date": "2026-06-18 21:00:00",
+      "venue": "Los Angeles",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          3,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          1,
+          0
+        ],
+        "TELE": [
+          2,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          0,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          2,
+          0
+        ],
+        "PAPA DE TODOS": [
+          2,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Canadá",
+      "away": "Qatar",
+      "homeId": 30,
+      "awayId": 55,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 27,
+      "date": "2026-06-19 00:00:00",
+      "venue": "Vancouver",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          2,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          3,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          3,
+          0
+        ],
+        "Ricardo Diaz": [
+          1,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          0
+        ],
+        "JESUS MORAN": [
+          1,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Suiza",
+      "away": "Canadá",
+      "homeId": 19,
+      "awayId": 30,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 51,
+      "date": "2026-06-24 21:00:00",
+      "venue": "Vancouver",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          0
+        ],
+        "TELE": [
+          3,
+          2
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          2,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          3,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          2
+        ],
+        "JOSE MENDEZ": [
+          1,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          1,
+          0
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo B",
+      "home": "Bosnia/Herzeg.",
+      "away": "Qatar",
+      "homeId": 65,
+      "awayId": 55,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 52,
+      "date": "2026-06-24 21:00:00",
+      "venue": "Seattle",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          1
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          0,
+          2
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          2,
+          0
+        ],
+        "Ricardo Diaz": [
+          0,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          0,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          1,
+          0
+        ],
+        "PLAY": [
+          2,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Brasil",
+      "away": "Marruecos",
+      "homeId": 6,
+      "awayId": 8,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 7,
+      "date": "2026-06-14 00:00:00",
+      "venue": "New York/New Jersey",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          2
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          3,
+          2
+        ],
+        "Ricardo Diaz": [
+          2,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          2
+        ],
+        "GUILLE": [
+          3,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          2
+        ],
+        "DARIO": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Haiti",
+      "away": "Escocia",
+      "homeId": 83,
+      "awayId": 43,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 5,
+      "date": "2026-06-14 03:00:00",
+      "venue": "Boston",
+      "predictions": {
+        "PAUL": [
+          0,
+          4
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          0
+        ],
+        "Andres Griborio": [
+          0,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          3
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          4
+        ],
+        "Ernesto F": [
+          0,
+          3
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          2
+        ],
+        "KELVIN": [
+          2,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          0,
+          5
+        ],
+        "Ricardo Diaz": [
+          0,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          3
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          0,
+          3
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          2
+        ],
+        "JESUS MORAN": [
+          0,
+          3
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          3
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          2,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Escocia",
+      "away": "Marruecos",
+      "homeId": 43,
+      "awayId": 8,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 30,
+      "date": "2026-06-20 00:00:00",
+      "venue": "Boston",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          0,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          2
+        ],
+        "CARLOS ROMERO": [
+          2,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          0,
+          2
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Brasil",
+      "away": "Haiti",
+      "homeId": 6,
+      "awayId": 83,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 29,
+      "date": "2026-06-20 02:30:00.288000",
+      "venue": "Philadelphia",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          4,
+          0
+        ],
+        "Yoshan jardine": [
+          4,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          0
+        ],
+        "Andres Griborio": [
+          4,
+          0
+        ],
+        "Meiling Chu": [
+          4,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          5,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          4,
+          1
+        ],
+        "JAVI FERRER": [
+          5,
+          0
+        ],
+        "TELE": [
+          4,
+          0
+        ],
+        "Ernesto F": [
+          4,
+          0
+        ],
+        "CARLOS RUSA": [
+          4,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          3,
+          0
+        ],
+        "KELVIN": [
+          5,
+          1
+        ],
+        "Ricardo Montesinos": [
+          3,
+          0
+        ],
+        "JONAH": [
+          5,
+          0
+        ],
+        "Ricardo Diaz": [
+          4,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          5,
+          0
+        ],
+        "JOSE MENDEZ": [
+          4,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          4,
+          0
+        ],
+        "PLAY": [
+          4,
+          0
+        ],
+        "Luis Rubiano": [
+          4,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          0
+        ],
+        "GUILLE": [
+          4,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          0
+        ],
+        "JUAN MUNOS": [
+          7,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          5,
+          0
+        ],
+        "Javielito": [
+          4,
+          0
+        ],
+        "PAPA DE TODOS": [
+          4,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Escocia",
+      "away": "Brasil",
+      "homeId": 43,
+      "awayId": 6,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 49,
+      "date": "2026-06-25 00:00:00",
+      "venue": "Miami",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          3
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          4
+        ],
+        "JOSE MENDEZ": [
+          0,
+          1
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          3
+        ],
+        "Saul negretti": [
+          0,
+          3
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          0,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          4
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          0,
+          3
+        ],
+        "PAPA DE TODOS": [
+          0,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          1
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo C",
+      "home": "Marruecos",
+      "away": "Haiti",
+      "homeId": 8,
+      "awayId": 83,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 50,
+      "date": "2026-06-25 00:00:00",
+      "venue": "Atlanta",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          3,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          3,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          5,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          0
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          4,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          0
+        ],
+        "PAPA DE TODOS": [
+          2,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          0
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "EE.UU.",
+      "away": "Paraguay",
+      "homeId": 16,
+      "awayId": 40,
+      "actualHome": 4,
+      "actualAway": 1,
+      "matchNo": 4,
+      "date": "2026-06-13 03:00:00",
+      "venue": "Los Angeles",
+      "predictions": {
+        "PAUL": [
+          0,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          1,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          1
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "Australia",
+      "away": "Turquía",
+      "homeId": 27,
+      "awayId": 22,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 6,
+      "date": "2026-06-14 06:00:00",
+      "venue": "Vancouver",
+      "predictions": {
+        "PAUL": [
+          0,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          3
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          1,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          1,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          2,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          2
+        ],
+        "CARLOS ROMERO": [
+          3,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          3
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "EE.UU.",
+      "away": "Australia",
+      "homeId": 16,
+      "awayId": 27,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 32,
+      "date": "2026-06-19 21:00:00",
+      "venue": "Seattle",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          3,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          1,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          1
+        ],
+        "JOSE MENDEZ": [
+          3,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          0
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "Turquía",
+      "away": "Paraguay",
+      "homeId": 22,
+      "awayId": 40,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 31,
+      "date": "2026-06-20 04:59:59.712000",
+      "venue": "San Francisco Bay Area",
+      "predictions": {
+        "PAUL": [
+          0,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          2
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          0,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          1
+        ],
+        "JOSE MENDEZ": [
+          1,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          2
+        ],
+        "juan rubiano": [
+          3,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          2
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          1
+        ],
+        "Javielito": [
+          0,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          2
+        ],
+        "DARIO": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "Turquía",
+      "away": "EE.UU.",
+      "homeId": 22,
+      "awayId": 16,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 59,
+      "date": "2026-06-26 04:00:00.288000",
+      "venue": "Los Angeles",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          2
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          4,
+          2
+        ],
+        "Ricardo Montesinos": [
+          0,
+          3
+        ],
+        "JONAH": [
+          1,
+          3
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          2
+        ],
+        "JOSE MENDEZ": [
+          1,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          0,
+          1
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          2
+        ],
+        "DARIO": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo D",
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeId": 40,
+      "awayId": 27,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 60,
+      "date": "2026-06-26 04:00:00.288000",
+      "venue": "San Francisco Bay Area",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          1,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          0,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          1,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          0
+        ],
+        "JOSE MENDEZ": [
+          1,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Alemania",
+      "away": "Curazao",
+      "homeId": 10,
+      "awayId": 82,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 10,
+      "date": "2026-06-14 19:00:00.288000",
+      "venue": "Houston",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          4,
+          0
+        ],
+        "Yoshan jardine": [
+          5,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          4,
+          0
+        ],
+        "Andres Griborio": [
+          4,
+          0
+        ],
+        "Meiling Chu": [
+          4,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          6,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          4,
+          0
+        ],
+        "JAVI FERRER": [
+          5,
+          0
+        ],
+        "TELE": [
+          4,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          4,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          4,
+          0
+        ],
+        "KELVIN": [
+          4,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          4,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          7,
+          0
+        ],
+        "JOSE MENDEZ": [
+          4,
+          0
+        ],
+        "HERNANDO SR": [
+          5,
+          0
+        ],
+        "juan rubiano": [
+          5,
+          1
+        ],
+        "Saul negretti": [
+          4,
+          0
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          7,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          7,
+          1
+        ],
+        "JESUS MORAN": [
+          4,
+          0
+        ],
+        "GUILLE": [
+          4,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          0
+        ],
+        "JUAN MUNOS": [
+          7,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          5,
+          0
+        ],
+        "Javielito": [
+          6,
+          0
+        ],
+        "PAPA DE TODOS": [
+          5,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          4,
+          0
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Costa de Marfil",
+      "away": "Ecuador",
+      "homeId": 34,
+      "awayId": 23,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 9,
+      "date": "2026-06-15 01:00:00.288000",
+      "venue": "Philadelphia",
+      "predictions": {
+        "PAUL": [
+          0,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          0
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          1,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          0,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          0,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          3
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          3
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          0
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Alemania",
+      "away": "Costa de Marfil",
+      "homeId": 10,
+      "awayId": 34,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 33,
+      "date": "2026-06-20 22:00:00.288000",
+      "venue": "Toronto",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          3,
+          1
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          4,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          4,
+          2
+        ],
+        "Javielito": [
+          2,
+          0
+        ],
+        "PAPA DE TODOS": [
+          2,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Ecuador",
+      "away": "Curazao",
+      "homeId": 23,
+      "awayId": 82,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 34,
+      "date": "2026-06-21 01:59:59.712000",
+      "venue": "Kansas City",
+      "predictions": {
+        "PAUL": [
+          3,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          0
+        ],
+        "Yoshan jardine": [
+          3,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          3,
+          0
+        ],
+        "JONAH": [
+          3,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          0
+        ],
+        "JOSE MENDEZ": [
+          4,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          0
+        ],
+        "GUILLE": [
+          3,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          4,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          3,
+          0
+        ],
+        "PAPA DE TODOS": [
+          3,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          0
+        ],
+        "DARIO": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Curazao",
+      "away": "Costa de Marfil",
+      "homeId": 82,
+      "awayId": 34,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 55,
+      "date": "2026-06-25 22:00:00.288000",
+      "venue": "Philadelphia",
+      "predictions": {
+        "PAUL": [
+          0,
+          3
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          0,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          1,
+          3
+        ],
+        "Meiling Chu": [
+          1,
+          3
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          3
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          0,
+          0
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          2
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          1,
+          0
+        ],
+        "Ricardo Diaz": [
+          1,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          3
+        ],
+        "JOSE MENDEZ": [
+          1,
+          3
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          1
+        ],
+        "Saul negretti": [
+          0,
+          4
+        ],
+        "PLAY": [
+          0,
+          2
+        ],
+        "Luis Rubiano": [
+          0,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          4
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          3
+        ],
+        "Javielito": [
+          0,
+          2
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo E",
+      "home": "Ecuador",
+      "away": "Alemania",
+      "homeId": 23,
+      "awayId": 10,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 56,
+      "date": "2026-06-25 22:00:00.288000",
+      "venue": "New York/New Jersey",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          2
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          2
+        ],
+        "TELE": [
+          1,
+          3
+        ],
+        "Ernesto F": [
+          1,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          0,
+          0
+        ],
+        "Ricardo Montesinos": [
+          1,
+          2
+        ],
+        "JONAH": [
+          1,
+          5
+        ],
+        "Ricardo Diaz": [
+          2,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          4
+        ],
+        "JOSE MENDEZ": [
+          1,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          2
+        ],
+        "Javielito": [
+          2,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          0
+        ],
+        "DARIO": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Países Bajos",
+      "away": "Japón",
+      "homeId": 7,
+      "awayId": 18,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 11,
+      "date": "2026-06-14 22:00:00.288000",
+      "venue": "Dallas",
+      "predictions": {
+        "PAUL": [
+          1,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          3,
+          2
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          2
+        ],
+        "Saul negretti": [
+          2,
+          2
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          3,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          1
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          2,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Suecia",
+      "away": "Túnez",
+      "homeId": 38,
+      "awayId": 44,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 12,
+      "date": "2026-06-15 04:00:00.288000",
+      "venue": "Monterrey",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          1,
+          0
+        ],
+        "TELE": [
+          2,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          3,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          0
+        ],
+        "JONAH": [
+          3,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          1,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          0
+        ],
+        "Javielito": [
+          1,
+          0
+        ],
+        "PAPA DE TODOS": [
+          1,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          4,
+          0
+        ],
+        "DARIO": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Países Bajos",
+      "away": "Suecia",
+      "homeId": 7,
+      "awayId": 38,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 35,
+      "date": "2026-06-20 19:00:00.288000",
+      "venue": "Houston",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          1
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          4,
+          2
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          1,
+          0
+        ],
+        "Ricardo Diaz": [
+          1,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Túnez",
+      "away": "Japón",
+      "homeId": 44,
+      "awayId": 18,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 36,
+      "date": "2026-06-21 06:00:00",
+      "venue": "Monterrey",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          3
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          2
+        ],
+        "KELVIN": [
+          0,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          0,
+          2
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          2
+        ],
+        "JESUS MORAN": [
+          0,
+          1
+        ],
+        "GUILLE": [
+          0,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          3
+        ],
+        "Javielito": [
+          0,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          1
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Japón",
+      "away": "Suecia",
+      "homeId": 18,
+      "awayId": 38,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 57,
+      "date": "2026-06-26 01:00:00.288000",
+      "venue": "Dallas",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          2
+        ],
+        "Meiling Chu": [
+          3,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          2
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          3,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          2
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          0
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo F",
+      "home": "Túnez",
+      "away": "Países Bajos",
+      "homeId": 44,
+      "awayId": 7,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 58,
+      "date": "2026-06-26 01:00:00.288000",
+      "venue": "Kansas City",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          4
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          1,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          1,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          3
+        ],
+        "KELVIN": [
+          1,
+          5
+        ],
+        "Ricardo Montesinos": [
+          1,
+          3
+        ],
+        "JONAH": [
+          0,
+          2
+        ],
+        "Ricardo Diaz": [
+          0,
+          4
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          5
+        ],
+        "JOSE MENDEZ": [
+          0,
+          3
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          5
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          4
+        ],
+        "JESUS MORAN": [
+          1,
+          3
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          4
+        ],
+        "Javielito": [
+          0,
+          4
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          2
+        ],
+        "DARIO": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "Bélgica",
+      "away": "Egipto",
+      "homeId": 9,
+      "awayId": 29,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 16,
+      "date": "2026-06-15 21:00:00",
+      "venue": "Seattle",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          3,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          2
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          0,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          5,
+          1
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          4,
+          1
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          4,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          1
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          4,
+          1
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "IR Irán",
+      "away": "Nueva Zelanda",
+      "homeId": 21,
+      "awayId": 85,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 15,
+      "date": "2026-06-16 03:00:00",
+      "venue": "Los Angeles",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          0
+        ],
+        "JAVI FERRER": [
+          1,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          0,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          1,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          2,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          0
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          2
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "Bélgica",
+      "away": "IR Irán",
+      "homeId": 9,
+      "awayId": 21,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 39,
+      "date": "2026-06-21 21:00:00",
+      "venue": "Los Angeles",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          1,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          4,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          2,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          0,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          1,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          1
+        ],
+        "JOSE MENDEZ": [
+          4,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          5,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "Nueva Zelanda",
+      "away": "Egipto",
+      "homeId": 85,
+      "awayId": 29,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 40,
+      "date": "2026-06-22 03:00:00",
+      "venue": "Vancouver",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          2,
+          3
+        ],
+        "Meiling Chu": [
+          2,
+          3
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          1
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          0,
+          1
+        ],
+        "JONAH": [
+          3,
+          3
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          2
+        ],
+        "JOSE MENDEZ": [
+          0,
+          1
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          1
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          0,
+          3
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          0,
+          3
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          1
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "Egipto",
+      "away": "IR Irán",
+      "homeId": 29,
+      "awayId": 21,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 63,
+      "date": "2026-06-27 04:59:59.712000",
+      "venue": "Seattle",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          0,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          0
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo G",
+      "home": "Nueva Zelanda",
+      "away": "Bélgica",
+      "homeId": 85,
+      "awayId": 9,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 64,
+      "date": "2026-06-27 04:59:59.712000",
+      "venue": "Vancouver",
+      "predictions": {
+        "PAUL": [
+          0,
+          4
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          0,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          1
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          0,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          0,
+          4
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          1,
+          3
+        ],
+        "Ricardo Diaz": [
+          0,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          6
+        ],
+        "JOSE MENDEZ": [
+          0,
+          4
+        ],
+        "HERNANDO SR": [
+          1,
+          4
+        ],
+        "juan rubiano": [
+          1,
+          6
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          2
+        ],
+        "JESUS MORAN": [
+          0,
+          2
+        ],
+        "GUILLE": [
+          0,
+          3
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          4
+        ],
+        "Javielito": [
+          0,
+          4
+        ],
+        "PAPA DE TODOS": [
+          0,
+          4
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          2
+        ],
+        "DARIO": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "España",
+      "away": "Cabo Verde",
+      "homeId": 2,
+      "awayId": 69,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 14,
+      "date": "2026-06-15 18:00:00",
+      "venue": "Atlanta",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          0
+        ],
+        "Yoshan jardine": [
+          4,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          5,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          0
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          4,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          6,
+          0
+        ],
+        "JAVI FERRER": [
+          4,
+          0
+        ],
+        "TELE": [
+          3,
+          0
+        ],
+        "Ernesto F": [
+          4,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          5,
+          0
+        ],
+        "KELVIN": [
+          5,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          3,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          5,
+          0
+        ],
+        "JOSE MENDEZ": [
+          5,
+          0
+        ],
+        "HERNANDO SR": [
+          5,
+          1
+        ],
+        "juan rubiano": [
+          4,
+          0
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          4,
+          0
+        ],
+        "Luis Rubiano": [
+          8,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          6,
+          1
+        ],
+        "JESUS MORAN": [
+          4,
+          0
+        ],
+        "GUILLE": [
+          3,
+          0
+        ],
+        "CARLOS ROMERO": [
+          4,
+          0
+        ],
+        "JUAN MUNOS": [
+          6,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          6,
+          0
+        ],
+        "Javielito": [
+          3,
+          0
+        ],
+        "PAPA DE TODOS": [
+          5,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          4,
+          0
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "Arabia Saudita",
+      "away": "Uruguay",
+      "homeId": 61,
+      "awayId": 17,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 13,
+      "date": "2026-06-16 00:00:00",
+      "venue": "Miami",
+      "predictions": {
+        "PAUL": [
+          1,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          3
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          0,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          2
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          1,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          2,
+          3
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          2
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "España",
+      "away": "Arabia Saudita",
+      "homeId": 2,
+      "awayId": 61,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 38,
+      "date": "2026-06-21 18:00:00",
+      "venue": "Atlanta",
+      "predictions": {
+        "PAUL": [
+          3,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          3,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          1
+        ],
+        "Andres Griborio": [
+          3,
+          0
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          4,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          4,
+          0
+        ],
+        "Ricardo Montesinos": [
+          3,
+          1
+        ],
+        "JONAH": [
+          4,
+          1
+        ],
+        "Ricardo Diaz": [
+          3,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          1
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          5,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          1
+        ],
+        "DARIO": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "homeId": 17,
+      "awayId": 69,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 37,
+      "date": "2026-06-22 00:00:00",
+      "venue": "Miami",
+      "predictions": {
+        "PAUL": [
+          3,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          2,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          6,
+          0
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          0
+        ],
+        "JESUS MORAN": [
+          3,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          3,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          2,
+          0
+        ],
+        "PAPA DE TODOS": [
+          3,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          0
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "Cabo Verde",
+      "away": "Arabia Saudita",
+      "homeId": 69,
+      "awayId": 61,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 65,
+      "date": "2026-06-27 01:59:59.712000",
+      "venue": "Houston",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          3
+        ],
+        "Andres Griborio": [
+          3,
+          2
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          2,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          2,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          0,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          3
+        ],
+        "JOSE MENDEZ": [
+          1,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          3
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          1,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          0
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          3
+        ],
+        "Javielito": [
+          1,
+          3
+        ],
+        "PAPA DE TODOS": [
+          1,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo H",
+      "home": "Uruguay",
+      "away": "España",
+      "homeId": 17,
+      "awayId": 2,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 66,
+      "date": "2026-06-27 01:59:59.712000",
+      "venue": "Guadalajara",
+      "predictions": {
+        "PAUL": [
+          0,
+          3
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          0,
+          2
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          1,
+          3
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          3
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          2,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          4
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          2,
+          3
+        ],
+        "juan rubiano": [
+          2,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          2
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          3
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Francia",
+      "away": "Senegal",
+      "homeId": 1,
+      "awayId": 14,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 17,
+      "date": "2026-06-16 21:00:00",
+      "venue": "New York/New Jersey",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          3,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          2
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          4,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          2
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          5,
+          2
+        ],
+        "Ricardo Diaz": [
+          3,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          5,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          4,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          1
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          0
+        ],
+        "JUAN MUNOS": [
+          3,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          2
+        ],
+        "DARIO": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Iraq",
+      "away": "Noruega",
+      "homeId": 57,
+      "awayId": 31,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 18,
+      "date": "2026-06-17 00:00:00",
+      "venue": "Boston",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          4
+        ],
+        "Yoshan jardine": [
+          0,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          3
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          0,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          0,
+          3
+        ],
+        "Ricardo Diaz": [
+          0,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          3
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          0,
+          4
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          4
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          4
+        ],
+        "Javielito": [
+          0,
+          3
+        ],
+        "PAPA DE TODOS": [
+          0,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          5
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Francia",
+      "away": "Iraq",
+      "homeId": 1,
+      "awayId": 57,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 42,
+      "date": "2026-06-22 22:59:59.712000",
+      "venue": "Philadelphia",
+      "predictions": {
+        "PAUL": [
+          3,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          5,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          1
+        ],
+        "Andres Griborio": [
+          3,
+          0
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          5,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          0
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          3,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          4,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          3,
+          0
+        ],
+        "JONAH": [
+          5,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          0
+        ],
+        "JOSE MENDEZ": [
+          5,
+          0
+        ],
+        "HERNANDO SR": [
+          5,
+          2
+        ],
+        "juan rubiano": [
+          5,
+          1
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          4,
+          0
+        ],
+        "Luis Rubiano": [
+          6,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          5,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          0
+        ],
+        "GUILLE": [
+          3,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          0
+        ],
+        "JUAN MUNOS": [
+          4,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          5,
+          0
+        ],
+        "Javielito": [
+          3,
+          0
+        ],
+        "PAPA DE TODOS": [
+          3,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          4,
+          0
+        ],
+        "DARIO": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Noruega",
+      "away": "Senegal",
+      "homeId": 31,
+      "awayId": 14,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 41,
+      "date": "2026-06-23 01:59:59.712000",
+      "venue": "New York/New Jersey",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          1
+        ],
+        "Andres Griborio": [
+          2,
+          2
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          1
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          2,
+          2
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          3,
+          2
+        ],
+        "Ricardo Diaz": [
+          1,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          2
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          3,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          2
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Noruega",
+      "away": "Francia",
+      "homeId": 31,
+      "awayId": 1,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 61,
+      "date": "2026-06-26 21:00:00",
+      "venue": "Boston",
+      "predictions": {
+        "PAUL": [
+          1,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          2
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          0,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          2
+        ],
+        "CARLOS RUSA": [
+          1,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          2
+        ],
+        "KELVIN": [
+          2,
+          3
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          1,
+          3
+        ],
+        "Ricardo Diaz": [
+          2,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          3
+        ],
+        "JOSE MENDEZ": [
+          1,
+          3
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          2,
+          2
+        ],
+        "Saul negretti": [
+          1,
+          3
+        ],
+        "PLAY": [
+          2,
+          2
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          1,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          2,
+          3
+        ],
+        "Javielito": [
+          2,
+          2
+        ],
+        "PAPA DE TODOS": [
+          2,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo I",
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeId": 14,
+      "awayId": 57,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 62,
+      "date": "2026-06-26 21:00:00",
+      "venue": "Toronto",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          0
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          2
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          3,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          0,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          3,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          0
+        ],
+        "JONAH": [
+          3,
+          0
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          0
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          0
+        ],
+        "Javielito": [
+          3,
+          1
+        ],
+        "PAPA DE TODOS": [
+          3,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Argentina",
+      "away": "Argelia",
+      "homeId": 3,
+      "awayId": 28,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 19,
+      "date": "2026-06-17 03:00:00",
+      "venue": "Kansas City",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          1
+        ],
+        "Yoshan jardine": [
+          3,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          4,
+          1
+        ],
+        "JOSE MENDEZ": [
+          3,
+          1
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          3,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          0
+        ],
+        "JUAN MUNOS": [
+          3,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Austria",
+      "away": "Jordán",
+      "homeId": 24,
+      "awayId": 63,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 20,
+      "date": "2026-06-17 06:00:00",
+      "venue": "San Francisco Bay Area",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          1,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          4,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          1,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          0
+        ],
+        "JOSE MENDEZ": [
+          4,
+          0
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          0
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          0
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          1,
+          0
+        ],
+        "PAPA DE TODOS": [
+          1,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          0
+        ],
+        "DARIO": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Argentina",
+      "away": "Austria",
+      "homeId": 3,
+      "awayId": 24,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 43,
+      "date": "2026-06-22 19:00:00.288000",
+      "venue": "Dallas",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          3,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          0
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          3,
+          1
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          2,
+          0
+        ],
+        "PAPA DE TODOS": [
+          2,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Jordán",
+      "away": "Argelia",
+      "homeId": 63,
+      "awayId": 28,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 44,
+      "date": "2026-06-23 04:59:59.712000",
+      "venue": "San Francisco Bay Area",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          1,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          0
+        ],
+        "Ernesto F": [
+          0,
+          1
+        ],
+        "CARLOS RUSA": [
+          0,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          1
+        ],
+        "KELVIN": [
+          0,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          0,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          0,
+          3
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          0,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          1
+        ],
+        "JESUS MORAN": [
+          0,
+          1
+        ],
+        "GUILLE": [
+          1,
+          2
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          0,
+          1
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          3
+        ],
+        "Javielito": [
+          0,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          1
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Argelia",
+      "away": "Austria",
+      "homeId": 28,
+      "awayId": 24,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 69,
+      "date": "2026-06-28 04:00:00.288000",
+      "venue": "Kansas City",
+      "predictions": {
+        "PAUL": [
+          1,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          2
+        ],
+        "Meiling Chu": [
+          1,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          1
+        ],
+        "CARLOS RUSA": [
+          1,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          1,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          2
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          0,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          1,
+          0
+        ],
+        "PAPA DE TODOS": [
+          1,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          0
+        ],
+        "DARIO": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo J",
+      "home": "Jordán",
+      "away": "Argentina",
+      "homeId": 63,
+      "awayId": 3,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 70,
+      "date": "2026-06-28 04:00:00.288000",
+      "venue": "Dallas",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          3
+        ],
+        "Yoshan jardine": [
+          0,
+          3
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          3
+        ],
+        "Andres Griborio": [
+          0,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          2
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          3
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          1,
+          3
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          3
+        ],
+        "KELVIN": [
+          0,
+          3
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          0,
+          2
+        ],
+        "Ricardo Diaz": [
+          0,
+          2
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          7
+        ],
+        "JOSE MENDEZ": [
+          0,
+          6
+        ],
+        "HERNANDO SR": [
+          1,
+          3
+        ],
+        "juan rubiano": [
+          1,
+          4
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          0,
+          4
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          4
+        ],
+        "JESUS MORAN": [
+          0,
+          3
+        ],
+        "GUILLE": [
+          0,
+          3
+        ],
+        "CARLOS ROMERO": [
+          0,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          4
+        ],
+        "Javier Silva": [
+          0,
+          2
+        ],
+        "JORGE SILVA": [
+          0,
+          4
+        ],
+        "Javielito": [
+          0,
+          4
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          3
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "Portugal",
+      "away": "RD Congo",
+      "homeId": 5,
+      "awayId": 46,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 23,
+      "date": "2026-06-17 19:00:00.288000",
+      "venue": "Houston",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          0
+        ],
+        "Yoshan jardine": [
+          3,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          3,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          0
+        ],
+        "JAVI FERRER": [
+          4,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          3,
+          0
+        ],
+        "KELVIN": [
+          4,
+          0
+        ],
+        "Ricardo Montesinos": [
+          3,
+          0
+        ],
+        "JONAH": [
+          4,
+          1
+        ],
+        "Ricardo Diaz": [
+          4,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          5,
+          0
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          0
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          3,
+          0
+        ],
+        "Luis Rubiano": [
+          7,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          5,
+          1
+        ],
+        "JESUS MORAN": [
+          3,
+          0
+        ],
+        "GUILLE": [
+          3,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          5,
+          0
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          1
+        ],
+        "Javielito": [
+          4,
+          0
+        ],
+        "PAPA DE TODOS": [
+          4,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          1
+        ],
+        "DARIO": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "Uzbekistán",
+      "away": "Colombia",
+      "homeId": 50,
+      "awayId": 13,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 24,
+      "date": "2026-06-18 04:00:00.288000",
+      "venue": "Mexico City",
+      "predictions": {
+        "PAUL": [
+          0,
+          2
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          3
+        ],
+        "Yoshan jardine": [
+          0,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          3
+        ],
+        "Andres Griborio": [
+          1,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          1,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          2
+        ],
+        "KELVIN": [
+          0,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          2
+        ],
+        "JONAH": [
+          0,
+          3
+        ],
+        "Ricardo Diaz": [
+          0,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          4
+        ],
+        "JOSE MENDEZ": [
+          0,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          2
+        ],
+        "juan rubiano": [
+          1,
+          2
+        ],
+        "Saul negretti": [
+          0,
+          2
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          3
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          1,
+          2
+        ],
+        "JUAN MUNOS": [
+          0,
+          3
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          2
+        ],
+        "DARIO": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "Portugal",
+      "away": "Uzbekistán",
+      "homeId": 5,
+      "awayId": 50,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 47,
+      "date": "2026-06-23 19:00:00.288000",
+      "venue": "Houston",
+      "predictions": {
+        "PAUL": [
+          4,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          4,
+          0
+        ],
+        "Yoshan jardine": [
+          4,
+          0
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          4,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          3,
+          1
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          3,
+          0
+        ],
+        "Ernesto F": [
+          2,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          4,
+          0
+        ],
+        "Ricardo Diaz": [
+          3,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          5,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          3,
+          1
+        ],
+        "JUAN MUNOS": [
+          5,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          4,
+          1
+        ],
+        "Javielito": [
+          3,
+          0
+        ],
+        "PAPA DE TODOS": [
+          3,
+          0
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "Colombia",
+      "away": "RD Congo",
+      "homeId": 13,
+      "awayId": 46,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 48,
+      "date": "2026-06-24 04:00:00.288000",
+      "venue": "Guadalajara",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          3,
+          0
+        ],
+        "Meiling Chu": [
+          1,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          4,
+          2
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          3,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          0
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          5,
+          0
+        ],
+        "NELSON SANCHEZ": [
+          4,
+          0
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          2,
+          0
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          3,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          1,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeId": 13,
+      "awayId": 5,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 71,
+      "date": "2026-06-28 01:30:00",
+      "venue": "Miami",
+      "predictions": {
+        "PAUL": [
+          2,
+          1
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          2,
+          2
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          1,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          2,
+          3
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          1,
+          2
+        ],
+        "CARLOS RUSA": [
+          2,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          2,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          2,
+          1
+        ],
+        "JOSE MENDEZ": [
+          1,
+          2
+        ],
+        "HERNANDO SR": [
+          1,
+          3
+        ],
+        "juan rubiano": [
+          1,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          3
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          2
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo K",
+      "home": "RD Congo",
+      "away": "Uzbekistán",
+      "homeId": 46,
+      "awayId": 50,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 72,
+      "date": "2026-06-28 01:30:00",
+      "venue": "Atlanta",
+      "predictions": {
+        "PAUL": [
+          1,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          0,
+          2
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          1,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          0,
+          0
+        ],
+        "Ricardo Diaz": [
+          0,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          0
+        ],
+        "JOSE MENDEZ": [
+          0,
+          1
+        ],
+        "HERNANDO SR": [
+          1,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          2,
+          0
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          0,
+          2
+        ],
+        "JESUS MORAN": [
+          1,
+          1
+        ],
+        "GUILLE": [
+          1,
+          1
+        ],
+        "CARLOS ROMERO": [
+          1,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          0
+        ],
+        "JORGE SILVA": [
+          0,
+          0
+        ],
+        "Javielito": [
+          1,
+          2
+        ],
+        "PAPA DE TODOS": [
+          1,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          0
+        ],
+        "DARIO": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Inglaterra",
+      "away": "Croacia",
+      "homeId": 4,
+      "awayId": 11,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 22,
+      "date": "2026-06-17 22:00:00.288000",
+      "venue": "Dallas",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          3
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          3
+        ],
+        "JAVI FERRER": [
+          1,
+          2
+        ],
+        "TELE": [
+          1,
+          2
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          1
+        ],
+        "KELVIN": [
+          1,
+          0
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          1,
+          0
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          2
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          3,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          2,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          2,
+          1
+        ],
+        "Javielito": [
+          1,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Ghana",
+      "away": "Panamá",
+      "homeId": 74,
+      "awayId": 33,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 21,
+      "date": "2026-06-18 01:00:00.288000",
+      "venue": "Toronto",
+      "predictions": {
+        "PAUL": [
+          3,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          1
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          1
+        ],
+        "Andres Griborio": [
+          1,
+          1
+        ],
+        "Meiling Chu": [
+          2,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          2,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          0
+        ],
+        "JAVI FERRER": [
+          2,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          3,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          0
+        ],
+        "KELVIN": [
+          1,
+          2
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          1
+        ],
+        "JOSE MENDEZ": [
+          2,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          3,
+          1
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          1,
+          0
+        ],
+        "Luis Rubiano": [
+          2,
+          1
+        ],
+        "NELSON SANCHEZ": [
+          2,
+          1
+        ],
+        "JESUS MORAN": [
+          1,
+          0
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          0
+        ],
+        "JUAN MUNOS": [
+          2,
+          0
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          1
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          2,
+          0
+        ],
+        "DARIO": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Inglaterra",
+      "away": "Ghana",
+      "homeId": 4,
+      "awayId": 74,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 45,
+      "date": "2026-06-23 22:00:00.288000",
+      "venue": "Boston",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          2,
+          1
+        ],
+        "Yoshan jardine": [
+          1,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          0
+        ],
+        "Andres Griborio": [
+          2,
+          0
+        ],
+        "Meiling Chu": [
+          3,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          0
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          1
+        ],
+        "JAVI FERRER": [
+          3,
+          0
+        ],
+        "TELE": [
+          2,
+          0
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          0
+        ],
+        "Alejandro M (Vaderick)": [
+          2,
+          1
+        ],
+        "KELVIN": [
+          2,
+          0
+        ],
+        "Ricardo Montesinos": [
+          2,
+          1
+        ],
+        "JONAH": [
+          3,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          0
+        ],
+        "HERMANO RUBIANO": [
+          6,
+          0
+        ],
+        "JOSE MENDEZ": [
+          3,
+          0
+        ],
+        "HERNANDO SR": [
+          3,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          1
+        ],
+        "Saul negretti": [
+          3,
+          0
+        ],
+        "PLAY": [
+          2,
+          0
+        ],
+        "Luis Rubiano": [
+          4,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          3,
+          1
+        ],
+        "JESUS MORAN": [
+          2,
+          0
+        ],
+        "GUILLE": [
+          3,
+          1
+        ],
+        "CARLOS ROMERO": [
+          3,
+          1
+        ],
+        "JUAN MUNOS": [
+          3,
+          1
+        ],
+        "Javier Silva": [
+          2,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          0
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          2,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          3,
+          1
+        ],
+        "DARIO": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Panamá",
+      "away": "Croacia",
+      "homeId": 33,
+      "awayId": 11,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 46,
+      "date": "2026-06-24 01:00:00.288000",
+      "venue": "Toronto",
+      "predictions": {
+        "PAUL": [
+          0,
+          3
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          2
+        ],
+        "Yoshan jardine": [
+          0,
+          2
+        ],
+        "LEANDRO ANGARITA": [
+          0,
+          2
+        ],
+        "Andres Griborio": [
+          1,
+          3
+        ],
+        "Meiling Chu": [
+          0,
+          1
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          2
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          1
+        ],
+        "JAVI FERRER": [
+          0,
+          3
+        ],
+        "TELE": [
+          0,
+          1
+        ],
+        "Ernesto F": [
+          0,
+          2
+        ],
+        "CARLOS RUSA": [
+          0,
+          2
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          1
+        ],
+        "KELVIN": [
+          0,
+          1
+        ],
+        "Ricardo Montesinos": [
+          0,
+          2
+        ],
+        "JONAH": [
+          2,
+          2
+        ],
+        "Ricardo Diaz": [
+          0,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          3
+        ],
+        "JOSE MENDEZ": [
+          1,
+          3
+        ],
+        "HERNANDO SR": [
+          0,
+          2
+        ],
+        "juan rubiano": [
+          0,
+          3
+        ],
+        "Saul negretti": [
+          1,
+          1
+        ],
+        "PLAY": [
+          0,
+          1
+        ],
+        "Luis Rubiano": [
+          1,
+          3
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          3
+        ],
+        "JESUS MORAN": [
+          1,
+          2
+        ],
+        "GUILLE": [
+          0,
+          2
+        ],
+        "CARLOS ROMERO": [
+          1,
+          3
+        ],
+        "JUAN MUNOS": [
+          0,
+          2
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          0,
+          2
+        ],
+        "Javielito": [
+          0,
+          3
+        ],
+        "PAPA DE TODOS": [
+          1,
+          3
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          3
+        ],
+        "DARIO": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Panamá",
+      "away": "Inglaterra",
+      "homeId": 33,
+      "awayId": 4,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 67,
+      "date": "2026-06-27 22:59:59.712000",
+      "venue": "New York/New Jersey",
+      "predictions": {
+        "PAUL": [
+          0,
+          4
+        ],
+        "CARLOS SANCHEZ": [
+          0,
+          2
+        ],
+        "Yoshan jardine": [
+          0,
+          4
+        ],
+        "LEANDRO ANGARITA": [
+          1,
+          2
+        ],
+        "Andres Griborio": [
+          0,
+          1
+        ],
+        "Meiling Chu": [
+          1,
+          3
+        ],
+        "Juan Carlos Griborio": [
+          0,
+          3
+        ],
+        "ALEJANDRO MANTILLA": [
+          1,
+          3
+        ],
+        "JAVI FERRER": [
+          0,
+          2
+        ],
+        "TELE": [
+          0,
+          2
+        ],
+        "Ernesto F": [
+          0,
+          3
+        ],
+        "CARLOS RUSA": [
+          0,
+          3
+        ],
+        "Alejandro M (Vaderick)": [
+          0,
+          3
+        ],
+        "KELVIN": [
+          1,
+          5
+        ],
+        "Ricardo Montesinos": [
+          0,
+          3
+        ],
+        "JONAH": [
+          0,
+          1
+        ],
+        "Ricardo Diaz": [
+          0,
+          3
+        ],
+        "HERMANO RUBIANO": [
+          0,
+          5
+        ],
+        "JOSE MENDEZ": [
+          0,
+          4
+        ],
+        "HERNANDO SR": [
+          1,
+          3
+        ],
+        "juan rubiano": [
+          1,
+          4
+        ],
+        "Saul negretti": [
+          1,
+          2
+        ],
+        "PLAY": [
+          0,
+          3
+        ],
+        "Luis Rubiano": [
+          1,
+          4
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          4
+        ],
+        "JESUS MORAN": [
+          0,
+          3
+        ],
+        "GUILLE": [
+          0,
+          3
+        ],
+        "CARLOS ROMERO": [
+          0,
+          3
+        ],
+        "JUAN MUNOS": [
+          0,
+          4
+        ],
+        "Javier Silva": [
+          0,
+          1
+        ],
+        "JORGE SILVA": [
+          1,
+          4
+        ],
+        "Javielito": [
+          0,
+          4
+        ],
+        "PAPA DE TODOS": [
+          0,
+          2
+        ],
+        "ANGEL GOMEZ": [
+          0,
+          4
+        ],
+        "DARIO": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "group": "Grupo L",
+      "home": "Croacia",
+      "away": "Ghana",
+      "homeId": 11,
+      "awayId": 74,
+      "actualHome": null,
+      "actualAway": null,
+      "matchNo": 68,
+      "date": "2026-06-27 22:59:59.712000",
+      "venue": "Philadelphia",
+      "predictions": {
+        "PAUL": [
+          2,
+          0
+        ],
+        "CARLOS SANCHEZ": [
+          3,
+          2
+        ],
+        "Yoshan jardine": [
+          2,
+          1
+        ],
+        "LEANDRO ANGARITA": [
+          2,
+          0
+        ],
+        "Andres Griborio": [
+          1,
+          0
+        ],
+        "Meiling Chu": [
+          2,
+          0
+        ],
+        "Juan Carlos Griborio": [
+          3,
+          1
+        ],
+        "ALEJANDRO MANTILLA": [
+          2,
+          1
+        ],
+        "JAVI FERRER": [
+          3,
+          1
+        ],
+        "TELE": [
+          1,
+          1
+        ],
+        "Ernesto F": [
+          1,
+          0
+        ],
+        "CARLOS RUSA": [
+          2,
+          1
+        ],
+        "Alejandro M (Vaderick)": [
+          1,
+          0
+        ],
+        "KELVIN": [
+          1,
+          1
+        ],
+        "Ricardo Montesinos": [
+          1,
+          1
+        ],
+        "JONAH": [
+          2,
+          1
+        ],
+        "Ricardo Diaz": [
+          2,
+          1
+        ],
+        "HERMANO RUBIANO": [
+          3,
+          1
+        ],
+        "JOSE MENDEZ": [
+          1,
+          1
+        ],
+        "HERNANDO SR": [
+          2,
+          1
+        ],
+        "juan rubiano": [
+          2,
+          2
+        ],
+        "Saul negretti": [
+          2,
+          1
+        ],
+        "PLAY": [
+          1,
+          1
+        ],
+        "Luis Rubiano": [
+          2,
+          2
+        ],
+        "NELSON SANCHEZ": [
+          1,
+          2
+        ],
+        "JESUS MORAN": [
+          2,
+          1
+        ],
+        "GUILLE": [
+          2,
+          1
+        ],
+        "CARLOS ROMERO": [
+          2,
+          1
+        ],
+        "JUAN MUNOS": [
+          1,
+          1
+        ],
+        "Javier Silva": [
+          1,
+          0
+        ],
+        "JORGE SILVA": [
+          3,
+          2
+        ],
+        "Javielito": [
+          2,
+          1
+        ],
+        "PAPA DE TODOS": [
+          1,
+          1
+        ],
+        "ANGEL GOMEZ": [
+          1,
+          1
+        ],
+        "DARIO": [
+          2,
+          2
+        ]
+      }
+    }
+  ]
+}
