@@ -1,5 +1,5 @@
 // Maps the Spanish team names used in the quiniela sheet to the English
-// names commonly returned by football-data.org and similar free APIs, so
+// names commonly returned by worldcup26.ir and similar free APIs, so
 // live results can be matched against our seed match list.
 export const TEAM_NAME_ALIASES: Record<string, string[]> = {
   "Alemania": ["Germany"],

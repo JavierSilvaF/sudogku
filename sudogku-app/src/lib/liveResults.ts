@@ -5,47 +5,46 @@ export interface LiveResult {
   away: string;
   homeGoals: number;
   awayGoals: number;
+  status: "live" | "finished";
 }
 
-interface FootballDataMatch {
-  status: string;
-  homeTeam: { name: string };
-  awayTeam: { name: string };
-  score: { fullTime: { home: number | null; away: number | null } };
+interface WorldCup26Game {
+  home_score: string;
+  away_score: string;
+  time_elapsed: string;
+  home_team_name_en: string;
+  away_team_name_en: string;
 }
 
 /**
- * Pulls finished World Cup results from the free football-data.org API
- * (https://www.football-data.org). Requires a free API key set as
- * FOOTBALL_DATA_API_KEY. Returns an empty array if no key is configured or
- * the request fails for any reason, so the site always falls back to the
- * results already stored in src/data/quiniela.json.
+ * Pulls in-progress and finished World Cup scores from worldcup26.ir, a free
+ * community API that needs no key or signup. Returns an empty array if the
+ * request fails for any reason, so the site always falls back to the results
+ * already stored in src/data/quiniela.json.
  */
 export async function fetchLiveResults(): Promise<LiveResult[]> {
-  const apiKey = process.env.FOOTBALL_DATA_API_KEY;
-  if (!apiKey) return [];
-
   try {
-    const res = await fetch("https://api.football-data.org/v4/competitions/WC/matches", {
-      headers: { "X-Auth-Token": apiKey },
+    const res = await fetch("https://worldcup26.ir/get/games", {
       next: { revalidate: 600 },
     });
     if (!res.ok) return [];
 
-    const data = (await res.json()) as { matches?: FootballDataMatch[] };
-    if (!Array.isArray(data.matches)) return [];
+    const data = (await res.json()) as { games?: WorldCup26Game[] };
+    if (!Array.isArray(data.games)) return [];
 
     const results: LiveResult[] = [];
-    for (const m of data.matches) {
-      if (m.status !== "FINISHED") continue;
-      const home = resolveTeamName(m.homeTeam?.name ?? "");
-      const away = resolveTeamName(m.awayTeam?.name ?? "");
-      const homeGoals = m.score?.fullTime?.home;
-      const awayGoals = m.score?.fullTime?.away;
-      if (!home || !away || homeGoals === null || awayGoals === null || homeGoals === undefined || awayGoals === undefined) {
+    for (const g of data.games) {
+      const status = g.time_elapsed?.toLowerCase();
+      if (status !== "live" && status !== "finished") continue;
+
+      const home = resolveTeamName(g.home_team_name_en ?? "");
+      const away = resolveTeamName(g.away_team_name_en ?? "");
+      const homeGoals = Number(g.home_score);
+      const awayGoals = Number(g.away_score);
+      if (!home || !away || !Number.isFinite(homeGoals) || !Number.isFinite(awayGoals)) {
         continue;
       }
-      results.push({ home, away, homeGoals, awayGoals });
+      results.push({ home, away, homeGoals, awayGoals, status });
     }
     return results;
   } catch {

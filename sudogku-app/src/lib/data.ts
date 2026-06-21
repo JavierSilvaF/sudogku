@@ -10,7 +10,11 @@ export function getSeedMatches(): Match[] {
   return data.matches;
 }
 
-/** Merges seed matches with any finished results pulled from the live API. */
+/**
+ * Merges seed matches with live API results. Finished matches overwrite the
+ * scoring fields (actualHome/actualAway); in-progress matches only populate
+ * the live-display fields so the quiniela isn't scored on a partial result.
+ */
 export async function getMatches(): Promise<Match[]> {
   const liveResults = await fetchLiveResults();
   if (liveResults.length === 0) return data.matches;
@@ -20,7 +24,10 @@ export async function getMatches(): Promise<Match[]> {
   return data.matches.map((match) => {
     const live = liveByPair.get(`${match.home}__${match.away}`);
     if (!live) return match;
-    return { ...match, actualHome: live.homeGoals, actualAway: live.awayGoals };
+    if (live.status === "finished") {
+      return { ...match, actualHome: live.homeGoals, actualAway: live.awayGoals, isLive: false };
+    }
+    return { ...match, isLive: true, liveHome: live.homeGoals, liveAway: live.awayGoals };
   });
 }
 

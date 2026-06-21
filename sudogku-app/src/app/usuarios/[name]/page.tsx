@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getMatches, USERS } from "@/lib/data";
 import { computeStandings, pointsForUserInMatch } from "@/lib/scoring";
 import { formatMatchDate } from "@/lib/format";
+import TeamName from "@/components/TeamName";
 
 export const revalidate = 600;
 
@@ -51,7 +52,7 @@ export default async function UserPage({ params }: { params: Promise<{ name: str
                 <tr key={match.matchNo} className="border-t border-gray-100 dark:border-gray-800">
                   <td className="px-3 py-2">
                     <Link href={`/partidos/${match.matchNo}`} className="hover:underline">
-                      {match.home} vs {match.away}
+                      <TeamName name={match.home} /> vs <TeamName name={match.away} />
                     </Link>
                   </td>
                   <td className="px-3 py-2 text-gray-500 dark:text-gray-400">

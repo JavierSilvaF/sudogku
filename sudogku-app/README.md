@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 You have two ways to keep match results current:
 
-1. **Automatic (recommended):** sign up for a free API key at [football-data.org](https://www.football-data.org/client/register), then set it as the `FOOTBALL_DATA_API_KEY` environment variable (locally in `.env.local`, or in your Vercel project settings). The site will pull finished World Cup results from that API every 10 minutes and override the seed data automatically. If the key isn't set, or the API call fails for any reason, the site silently falls back to whatever is in `src/data/quiniela.json` — nothing breaks.
+1. **Automatic (default):** `src/lib/liveResults.ts` pulls scores from [worldcup26.ir](https://worldcup26.ir/), a free API that needs no key or signup. Every 10 minutes it refreshes: finished matches overwrite `actualHome`/`actualAway` (and get scored), while matches currently in progress only populate the live-display score (shown with an "En vivo" badge) without affecting scoring until they're finished. If the API call fails for any reason, the site silently falls back to whatever is in `src/data/quiniela.json` — nothing breaks.
 2. **Manual fallback:** edit `actualHome`/`actualAway` for the relevant match in `src/data/quiniela.json` and push — Vercel will redeploy with the new result.
 
 Team names are matched between the API and the seed data via `src/lib/teamNames.ts`. If a team's result isn't picking up, check that its alias list there matches the name the API returns.
@@ -34,8 +34,7 @@ Team names are matched between the API and the seed data via `src/lib/teamNames.
 
 1. Push this repo to GitHub.
 2. Go to [Vercel](https://vercel.com), import the repository.
-3. (Optional) Add the `FOOTBALL_DATA_API_KEY` environment variable for automatic live results.
-4. Deploy.
+3. Deploy — no environment variables required.
 
 ### Build Settings
 

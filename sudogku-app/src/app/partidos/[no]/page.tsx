@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { getMatchByNo, getMatches, USERS } from "@/lib/data";
 import { pointsForUserInMatch } from "@/lib/scoring";
 import { formatMatchDate } from "@/lib/format";
+import TeamName from "@/components/TeamName";
 
 export const revalidate = 600;
 
@@ -29,16 +30,27 @@ export default async function MatchPage({ params }: { params: Promise<{ no: stri
           {match.group} · {formatMatchDate(match.date)} · {match.venue}
         </p>
         <h1 className="text-2xl font-bold flex items-center gap-3">
-          <span>{match.home}</span>
+          <TeamName name={match.home} />
           <span className="tabular-nums">
-            {played ? `${match.actualHome} - ${match.actualAway}` : "vs"}
+            {match.isLive
+              ? `${match.liveHome} - ${match.liveAway}`
+              : played
+                ? `${match.actualHome} - ${match.actualAway}`
+                : "vs"}
           </span>
-          <span>{match.away}</span>
+          <TeamName name={match.away} />
         </h1>
-        {!played && (
-          <span className="text-xs font-medium uppercase tracking-wide text-amber-600 dark:text-amber-400">
-            Pendiente
+        {match.isLive ? (
+          <span className="flex items-center gap-1 text-xs font-medium uppercase tracking-wide text-red-600 dark:text-red-400">
+            <span className="h-1.5 w-1.5 rounded-full bg-red-600 dark:bg-red-400 animate-pulse" />
+            En vivo
           </span>
+        ) : (
+          !played && (
+            <span className="text-xs font-medium uppercase tracking-wide text-amber-600 dark:text-amber-400">
+              Pendiente
+            </span>
+          )
         )}
       </div>
 

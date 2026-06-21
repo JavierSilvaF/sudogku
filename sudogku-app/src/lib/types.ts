@@ -12,6 +12,9 @@ export interface Match {
   date: string;
   venue: string;
   predictions: Record<string, Score>;
+  isLive?: boolean;
+  liveHome?: number | null;
+  liveAway?: number | null;
 }
 
 export interface QuinielaData {

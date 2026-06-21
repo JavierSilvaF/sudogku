@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Match } from "@/lib/types";
 import { formatMatchDate } from "@/lib/format";
+import TeamName from "./TeamName";
 
 export default function MatchCard({ match }: { match: Match }) {
   const played = match.actualHome !== null && match.actualAway !== null;
@@ -12,14 +13,25 @@ export default function MatchCard({ match }: { match: Match }) {
     >
       <div className="flex flex-col gap-1">
         <span className="font-medium">
-          {match.home} <span className="text-gray-400">vs</span> {match.away}
+          <TeamName name={match.home} /> <span className="text-gray-400">vs</span>{" "}
+          <TeamName name={match.away} />
         </span>
         <span className="text-xs text-gray-500 dark:text-gray-400">
           {formatMatchDate(match.date)} · {match.venue}
         </span>
       </div>
       <div className="flex items-center gap-3">
-        {played ? (
+        {match.isLive ? (
+          <>
+            <span className="font-bold tabular-nums">
+              {match.liveHome} - {match.liveAway}
+            </span>
+            <span className="flex items-center gap-1 text-xs font-medium uppercase tracking-wide text-red-600 dark:text-red-400">
+              <span className="h-1.5 w-1.5 rounded-full bg-red-600 dark:bg-red-400 animate-pulse" />
+              En vivo
+            </span>
+          </>
+        ) : played ? (
           <span className="font-bold tabular-nums">
             {match.actualHome} - {match.actualAway}
           </span>
