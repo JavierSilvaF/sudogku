@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getMatches, USERS } from "@/lib/data";
 import { computeStandings } from "@/lib/scoring";
+import { toTitleCase } from "@/lib/format";
 
 export const revalidate = 600;
 
@@ -19,10 +20,10 @@ export default async function UsuariosPage() {
             <Link
               key={user}
               href={`/usuarios/${encodeURIComponent(user)}`}
-              className="rounded-lg border border-gray-200 dark:border-gray-800 px-4 py-3 hover:bg-gray-50 dark:hover:bg-gray-900 transition flex items-center justify-between"
+              className="rounded-lg border border-stone-800 px-4 py-3 hover:bg-stone-900 hover:border-amber-600 transition flex items-center justify-between"
             >
-              <span className="font-medium">{user}</span>
-              <span className="text-sm text-gray-500 dark:text-gray-400">
+              <span className="font-medium">{toTitleCase(user)}</span>
+              <span className="text-sm text-stone-400">
                 #{row?.rank} · {row?.totalPoints} pts
               </span>
             </Link>

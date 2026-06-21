@@ -22,9 +22,9 @@ export default function Nav() {
           href='/'
           className={`${bebasNeue.className} text-2xl tracking-wide uppercase text-white`}
         >
-          Quiniela <span style={{ color: '#fe3c00' }}>Mun</span>
-          <span style={{ color: '#2095f2' }}>dia</span>
-          <span style={{ color: '#b0ea00' }}>l26</span>
+          Quiniela <span style={{ color: '#E2001A' }}>Mun</span>
+          <span style={{ color: '#3457E8' }}>dia</span>
+          <span style={{ color: '#00A859' }}>l26</span>
         </Link>
         <nav className='flex items-center gap-1'>
           {LINKS.map((link) => {

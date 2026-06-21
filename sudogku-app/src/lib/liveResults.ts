@@ -26,6 +26,7 @@ export async function fetchLiveResults(): Promise<LiveResult[]> {
   try {
     const res = await fetch("https://worldcup26.ir/get/games", {
       next: { revalidate: 600 },
+      signal: AbortSignal.timeout(5000),
     });
     if (!res.ok) return [];
 

@@ -16,3 +16,13 @@ export function formatMatchDate(dateString: string): string {
   }).format(date);
   return `${formatted} EST`;
 }
+
+/**
+ * Seed names are a mix of ALL CAPS and lowercase, since they were imported
+ * as-typed from the original spreadsheet. Normalize to Title Case for
+ * display only — the underlying string (used as the predictions key and in
+ * URLs) is left untouched.
+ */
+export function toTitleCase(name: string): string {
+  return name.toLowerCase().replace(/(^|[\s(])([a-zà-ÿ])/g, (_, sep, letter) => sep + letter.toUpperCase());
+}

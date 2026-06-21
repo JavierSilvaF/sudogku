@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getMatches, USERS } from "@/lib/data";
 import { computeStandings, pointsForUserInMatch } from "@/lib/scoring";
-import { formatMatchDate } from "@/lib/format";
+import { formatMatchDate, toTitleCase } from "@/lib/format";
 import TeamName from "@/components/TeamName";
 
 export const revalidate = 600;
@@ -22,19 +22,19 @@ export default async function UserPage({ params }: { params: Promise<{ name: str
     <div className="flex flex-col gap-6">
       <div className="flex flex-wrap items-baseline justify-between gap-2">
         <div>
-          <h1 className="text-2xl font-bold">{user}</h1>
-          <p className="text-sm text-gray-500 dark:text-gray-400">
+          <h1 className="text-2xl font-bold">{toTitleCase(user)}</h1>
+          <p className="text-sm text-stone-400">
             Puesto #{row?.rank} · {row?.totalPoints} puntos · {row?.matchesScored} partidos jugados
           </p>
         </div>
-        <Link href="/usuarios" className="text-sm text-gray-500 dark:text-gray-400 hover:underline">
+        <Link href="/usuarios" className="text-sm text-stone-400 hover:underline">
           Ver todos los participantes
         </Link>
       </div>
 
-      <div className="overflow-x-auto rounded-lg border border-gray-200 dark:border-gray-800">
+      <div className="overflow-x-auto rounded-lg border border-stone-800">
         <table className="w-full text-sm">
-          <thead className="bg-gray-100 dark:bg-gray-900 text-gray-600 dark:text-gray-400">
+          <thead className="bg-stone-900 text-stone-200">
             <tr>
               <th className="px-3 py-2 text-left font-medium">Partido</th>
               <th className="px-3 py-2 text-left font-medium">Fecha</th>
@@ -49,13 +49,13 @@ export default async function UserPage({ params }: { params: Promise<{ name: str
               const points = pointsForUserInMatch(match, user);
               const played = match.actualHome !== null && match.actualAway !== null;
               return (
-                <tr key={match.matchNo} className="border-t border-gray-100 dark:border-gray-800">
+                <tr key={match.matchNo} className="border-t border-stone-800">
                   <td className="px-3 py-2">
                     <Link href={`/partidos/${match.matchNo}`} className="hover:underline">
                       <TeamName name={match.home} /> vs <TeamName name={match.away} />
                     </Link>
                   </td>
-                  <td className="px-3 py-2 text-gray-500 dark:text-gray-400">
+                  <td className="px-3 py-2 text-stone-400">
                     {formatMatchDate(match.date)}
                   </td>
                   <td className="px-3 py-2 text-right tabular-nums">
